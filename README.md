@@ -33,29 +33,10 @@
 
 <div align="center">
   
-  ### 📊 GitHub Statistics
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mayankarora333&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; margin: 1%;" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankarora333&theme=radical" alt="GitHub Streak" style="width: 48%; margin: 1%;" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankarora333&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; margin: 1%;" />
-  </div>
-</div>
-
-  <div align="center">
+  
     
-  ### 🏆 GitHub Activity
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankarora333&theme=react-dark" alt="Contribution Graph" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankarora333t&theme=radical" alt="GitHub Trophies" />
+ 
 
-  ### 🎗️Badges
-
-  [![An image of @mayankarora333's Holopin badges, which is a link to view their full Holopin profile][(https://holopin.me/mayankarora333](https://github.com/users/mayankarora333/achievements/pull-shark))
+  
 
 </div>
